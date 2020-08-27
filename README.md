@@ -1,2 +1,3 @@
-I'm noko, a MLOps Engineer in Japan.  
-My interests include Cloud Computing, Machine Learning.
+Job: Engineer (MLOps ← Machine Learning ←  Infrastrucutre)
+Role:  Engineer / Tech Lead / PdM / PjM 
+Interest: Cloud Computing / Machine Learning / ML Tools
