@@ -1,6 +1,5 @@
 ◆Job  
-Senior Data Engineer  
-← Machine Learning Engineer  
+Senior Data Engineer@AI Team  
 ← Infrastructure  Engineer  
   
 ◆Role  
