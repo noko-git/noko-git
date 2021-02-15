@@ -1,5 +1,5 @@
 ◆Job  
-Senior Data Engineer@AI Team  
+MLOps Engineer   
 ← Infrastructure  Engineer  
   
 ◆Role  
